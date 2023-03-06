@@ -1,3 +1,2 @@
 # ilk-websitem
-kodluyoruz
-patika.dev 
+kodluyoruz ve patika.dev 
