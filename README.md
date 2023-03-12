@@ -1,2 +1,2 @@
 # Personal Website
-My first homework at Kodluyoruz-Patika lessons
+My first homework in Kodluyoruz-Patika lessons.
